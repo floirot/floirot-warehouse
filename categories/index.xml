@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Floirot blog</title>
-	<link>https://floirot.github.io/floirot-warehouse/categories/</link>
+	<link>https://floirot.github.io/categories/</link>
 	<description>Recent content in Categories on Floirot blog</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://floirot.github.io/floirot-warehouse/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://floirot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>2023 v knihách</title>
-		<link>https://floirot.github.io/floirot-warehouse/reading/2023/</link>
+		<link>https://floirot.github.io/reading/2023/</link>
 		<pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
 		
-		<guid>https://floirot.github.io/floirot-warehouse/reading/2023/</guid>
+		<guid>https://floirot.github.io/reading/2023/</guid>
 		<description>&lt;ul&gt;
 &lt;li&gt;Ballard J.G. - Crash&lt;/li&gt;
 &lt;li&gt;Camus Albert - Prvý človek&lt;/li&gt;
@@ -51,20 +51,20 @@
 	
 	<item>
 		<title>About</title>
-		<link>https://floirot.github.io/floirot-warehouse/about/</link>
+		<link>https://floirot.github.io/about/</link>
 		<pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
 		
-		<guid>https://floirot.github.io/floirot-warehouse/about/</guid>
+		<guid>https://floirot.github.io/about/</guid>
 		<description>&lt;p&gt;Tu si budem odkladať veci.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Sadako</title>
-		<link>https://floirot.github.io/floirot-warehouse/stories/sadako/</link>
+		<link>https://floirot.github.io/stories/sadako/</link>
 		<pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
 		
-		<guid>https://floirot.github.io/floirot-warehouse/stories/sadako/</guid>
+		<guid>https://floirot.github.io/stories/sadako/</guid>
 		<description>&lt;p&gt;Stál som pri okne v kuchyni tam, kde som stával kedysi. Pohľad von ukazoval nízky drevený plot. Jeho tmavú farbu pretínali zhnité rany. Bolo ho treba často opravovať, ale zrejme sa k tomu nikto nemal.&lt;/p&gt;
 &lt;p&gt;Za mojím chrbtom sedel brat. Počul som ako si upíja z čaju. Nechcel sa popáliť a tak opatrne sŕkal, pričom za každým nasledovalo jemné buchnutie hrnčeka o stôl. Kedysi ma strašieval, že keď začne z radiátora tiecť voda, tak sa udeje nešťastie, ale tých nešťastí sa stihlo udiať veľa aj bez varovania. Ja som odtiaľto odišiel, ale brat ostal. O dom sa bolo treba starať, veď k nemu prislúchala záhrada, humno aj pole. Priveľa majetku pôsobí ako závažie zadržiavajúce človeka na mieste. Ja som utiekol, ale brat ostal pripútaný.&lt;/p&gt;
 &lt;p&gt;A možno to bolo naopak.&lt;/p&gt;
